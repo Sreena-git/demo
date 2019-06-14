@@ -1,0 +1,307 @@
+ {
+ "segments": [
+    {
+      "id": "Segment1",
+      "P1": {
+        "northing": "6014.304",
+        "easting": "7759.375",
+        "bop": "19.059"
+      },
+      "P2": {
+        "northing": "6005.421",
+        "easting": "7759.375",
+        "bop": "19.025"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment2",
+      "P1": {
+        "northing": "6005.421",
+        "easting": "7759.375",
+        "bop": "19.025"
+      },
+      "P2": {
+        "northing": "5997.32",
+        "easting": "7759.375",
+        "bop": "19.056"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment3",
+      "P1": {
+        "northing": "5997.32",
+        "easting": "7759.375",
+        "bop": "19.056"
+      },
+      "P2": {
+        "northing": "5995.514",
+        "easting": "7759.375",
+        "bop": "20.672"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment4",
+      "P1": {
+        "northing": "5995.514",
+        "easting": "7759.375",
+        "bop": "20.672"
+      },
+      "P2": {
+        "northing": "5995.921",
+        "easting": "7759.375",
+        "bop": "20.89"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment5",
+      "P1": {
+        "northing": "5995.921",
+        "easting": "7759.375",
+        "bop": "20.89"
+      },
+      "P2": {
+        "northing": "5940.469",
+        "easting": "7759.375",
+        "bop": "20.685"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment6",
+      "P1": {
+        "northing": "5940.469",
+        "easting": "7759.375",
+        "bop": "20.685"
+      },
+      "P2": {
+        "northing": "5940.021",
+        "easting": "7759.375",
+        "bop": "20.233"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment7",
+      "P1": {
+        "northing": "5940.469",
+        "easting": "7759.375",
+        "bop": "20.233"
+      },
+      "P2": {
+        "northing": "5913.921",
+        "easting": "7759.375",
+        "bop": "20.13"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment8",
+      "P1": {
+        "northing": "5913.921",
+        "easting": "7759.375",
+        "bop": "20.13"
+      },
+      "P2": {
+        "northing": "5909.077",
+        "easting": "7759.375",
+        "bop": "20.148"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment9",
+      "P1": {
+        "northing": "5909.077",
+        "easting": "7759.375",
+        "bop": "20.148"
+      },
+      "P2": {
+        "northing": "5908.621",
+        "easting": "7759.375",
+        "bop": "20.604"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment10",
+      "P1": {
+        "northing": "5908.621",
+        "easting": "7759.375",
+        "bop": "20.604"
+      },
+      "P2": {
+        "northing": "5904.545",
+        "easting": "7759.375",
+        "bop": "20.589"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment11",
+      "P1": {
+        "northing": "5904.545",
+        "easting": "7759.375",
+        "bop": "20.589"
+      },
+      "P2": {
+        "northing": "5903.319",
+        "easting": "7759.375",
+        "bop": "19.393"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment12",
+      "P1": {
+        "northing": "5903.319",
+        "easting": "7759.375",
+        "bop": "19.393"
+      },
+      "P2": {
+        "northing": "5848.921",
+        "easting": "7759.375",
+        "bop": "19.168"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    },
+    {
+      "id": "Segment13",
+      "P1": {
+        "northing": "5848.921",
+        "easting": "7759.375",
+        "bop": "19.168"
+      },
+      "P2": {
+        "northing": "5811.396",
+        "easting": "7759.375",
+        "bop": "19.317"
+      },
+      "airport_altitude": "",
+      "gradient": "",
+      "type": ""
+    }
+  ],
+  "low_points": [
+    {
+      "id": "LP 2114",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "6005.421",
+        "easting": "7759.375",
+        "bop": "19.025"
+      }
+    },
+    {
+      "id": "LP 2128",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "5913.921",
+        "easting": "7759.375",
+        "bop": "20.13"
+      }
+    },
+    {
+      "id": "LP 2135",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "5848.921",
+        "easting": "7759.375",
+        "bop": "19.168"
+      }
+    }
+  ],
+  "vent_points": [
+    {
+      "id": "VP 2138",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "5811.396",
+        "easting": "7759.375",
+        "bop": "20.602"
+      }
+    },
+    {
+      "id": "VP 2129",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "5907.921",
+        "easting": "7759.375",
+        "bop": "20.602"
+      }
+    },
+    {
+      "id": "VP 2121",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "5991.921",
+        "easting": "7759.375",
+        "bop": "20.89"
+      }
+    }
+  ],
+  "isolation_valves": [
+    {
+      "id": "VC 721 Isolation Valve",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "6013.706",
+        "easting": "7759.375",
+        "bop": "19.056"
+      }
+	},
+    {
+      "id": "VC 721 Isolation Valve002",
+      "airport_altitude": "",
+      "gradient": "",
+      "type": "",
+      "coordinate": {
+        "northing": "6013.706",
+        "easting": "7759.375",
+        "bop": "19.056"
+      }
+    }
+	
+	]
+}
